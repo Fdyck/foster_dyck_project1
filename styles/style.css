@@ -201,7 +201,7 @@ header {
 .open {
     display: none;
     position: absolute;
-    top: 5%;
+    top: 3%;
     right: 5%;
     cursor: pointer;
     transform: scale(2);
@@ -694,6 +694,10 @@ input[type="submit"] {
 
     .title h1 {
         font-size: 9rem;
+    }
+
+    .open {
+        top: 2.5%;
     }
 
     .close {
