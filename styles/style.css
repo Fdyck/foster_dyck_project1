@@ -176,6 +176,7 @@ header {
     right: 0;
     background: rgba(9, 65, 84, 0.9);
     transition: 0.5s;
+    z-index: 1;
 }
 
 .hamburgerNav ul {
