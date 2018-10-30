@@ -781,15 +781,6 @@ input[type="submit"] {
     } 
 }
 
-@media  (-webkit-min-device-pixel-ratio: 2), 
-        (min-resolution: 192dpi) {
-            header {
-                background:url(../assets/image1/image-1@2x.png) bottom cover;
-                background-size: 50%;
-                background-repeat: no-repeat;
-                background-size: cover;
-                min-height: 100vh;
-        }
-}
+
 
 /* MEDIA QUERIES END */
