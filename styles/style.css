@@ -785,10 +785,10 @@ input[type="submit"] {
         (min-resolution: 192dpi) {
             header {
                 background:url(../assets/image1/image-1@2x.png) bottom cover;
-                    background-size: 50%;
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    min-height: 80vh;
+                background-size: 50%;
+                background-repeat: no-repeat;
+                background-size: cover;
+                min-height: 80vh;
         }
 }
 
